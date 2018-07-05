@@ -1,7 +1,7 @@
 # AWS Arora Project
 
 ### Phase 1:
-  - This Web Application should be
+#### This Web Application
   - Can dynamically be changed to add more pages to the form.
   - Have a look and feel of a professional web application that can start services in the backend using API calls.
   - We will need this application to be a container that  can handle addition of pages and features.
